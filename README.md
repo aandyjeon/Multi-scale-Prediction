@@ -3,7 +3,7 @@ publised on Fire Technology Journal(SCIE) as follows:
 
 https://link.springer.com/article/10.1007/s10694-021-01132-y
 
-# BibTeX for Citation
+## BibTeX for Citation
 @article{jeon2021multi, \
   title={Multi-Scale Prediction For Fire Detection Using Convolutional Neural Network}, \
   author={Jeon, Myeongho and Choi, Han-Soo and Lee, Junho and Kang, Myungjoo}, \

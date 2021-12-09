@@ -1,5 +1,6 @@
 # multi-scale-prediction
-publised on Fire Technology Journal(SCIE)
+publised on Fire Technology Journal(SCIE) as follows:
+
 https://link.springer.com/article/10.1007/s10694-021-01132-y
 
 # BibTeX for Citation

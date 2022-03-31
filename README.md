@@ -1,4 +1,4 @@
-# multi-scale-prediction
+# Multi-Scale Prediction For Fire Detection Using Convolutional Neural Network
 publised on Fire Technology Journal as follows:
 
 https://link.springer.com/article/10.1007/s10694-021-01132-y
